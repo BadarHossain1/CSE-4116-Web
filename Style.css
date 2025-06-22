@@ -9,6 +9,7 @@
 
 h1{
     color: aquamarine !important;
+    z-index: 1; /* This is used to set the stack order of an element. Higher values are in front of lower values. */
 
 }
 
